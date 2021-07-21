@@ -1,3 +1,3 @@
 # startup-of-the-year
 
-This is an example
+This is no longer an example
