@@ -1,3 +1,3 @@
 # startup-of-the-year
 
-This is no longer an example
+Buisiness Website idea connected to an emailing list.
